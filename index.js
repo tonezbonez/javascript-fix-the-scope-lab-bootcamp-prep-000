@@ -30,4 +30,3 @@ return function(){
 // NOTE: you only need to modify the code below this line.
 funkyFunction()
 var theFunk = console.log(function())
-
